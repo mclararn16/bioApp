@@ -16,6 +16,14 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+To start Expo Go with a tunnel, run this from the `my-app` directory:
+
+```bash
+npm run goTunnel
+```
+
+From the parent directory, use `npm --prefix my-app run goTunnel`.
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
