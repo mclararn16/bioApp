@@ -30,8 +30,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#FEEFB8",
   },
   foto: {
-    width: 180,
-    height: 180,
+    width: 200,
+    height: 280,
     borderRadius: 30,
     marginBottom: 26,
     borderWidth: 4,
